@@ -18,7 +18,6 @@ This repository focuses on developing adaptive inference mechanisms and visual i
    - [Research Paper List](#research-paper-list)
    - [Literature Review and Survey](#literature-review-and-survey)
    - [Reimplementation of Selected Research Papers](#reimplementation-of-selected-research-papers)
-   - [Research Paper Comparisons](#research-paper-comparisons)
    - [Foundational Code Development (PyTorch)](#foundational-code-development-pytorch)
 3. [Project Structure](#project-structure)
 4. [Installation](#installation)
@@ -50,9 +49,6 @@ A comprehensive review of key methodologies in image classification, symbol reco
 
 Key foundational papers, including state-of-the-art approaches, will be reimplemented with a focus on their applicability to the **Scientific MNIST** dataset, aiming to refine existing methods and explore new approaches.
 
-### **Research Paper Comparisons**
-
-A comparison of selected research papers will be conducted to analyze the strengths and weaknesses of various methodologies applied to **Scientific MNIST**.
 
 ### **Foundational Code Development (PyTorch)**
 
