@@ -41,13 +41,10 @@ The **Scientific MNIST dataset** is central to this repository's focus. This ext
 
 A curated list of essential research papers, including foundational studies and recent advances, will guide the development of methods tested with the **Scientific MNIST** dataset.
 
-### **Literature Review and Survey**
-
-A comprehensive review of key methodologies in image classification, symbol recognition, and inference will provide insights into current trends and challenges in visual intelligence.
 
 ### **Reimplementation of Selected Research Papers**
 
-Key foundational papers, including state-of-the-art approaches, will be reimplemented with a focus on their applicability to the **Scientific MNIST** dataset, aiming to refine existing methods and explore new approaches.
+Key foundational papers/state-of-the-art approaches, will be reimplemented with a focus on their applicability to the **Scientific MNIST** dataset, aiming to refine existing methods and explore new approaches.
 
 
 ### **Foundational Code Development (PyTorch)**
