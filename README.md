@@ -134,7 +134,9 @@ If you use this repository in your research, projects, or academic work, please 
 - Thanks to the creators of the Scientific MNIST dataset
 - PyTorch community for the excellent deep learning framework
 
-## Long Term Vision
+## Ongoing Research Exploration
+
+Building on last year’s foundational work, this repository remains a living archive of inquiry. Each new entities, deepens our evolving understanding of visual intelligence in scientific domains.
 
 This repository reflects an evolving body of work: shaped by deliberate effort, continuous learning, and a continuous attempt at thoughtful progress. While the current state represents a small subset of meaningful work, it remains part of a broader, ongoing journey: open to refinement, extension, and deeper understanding. As with any thoughtful pursuit, the process is dynamic, not definitive.
 
