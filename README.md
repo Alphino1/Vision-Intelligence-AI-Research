@@ -18,6 +18,7 @@ This repository focuses on developing adaptive inference mechanisms and visual i
    - [Research Paper List](#research-paper-list)
    - [Literature Review and Survey](#literature-review-and-survey)
    - [Reimplementation of Selected Research Papers](#reimplementation-of-selected-research-papers)
+   - [Comparative Analysis of Research Approaches](#comparative-analysis-of-research-approaches)
    - [Foundational Code Development (PyTorch)](#foundational-code-development-pytorch)
 3. [Project Structure](#project-structure)
 4. [Installation](#installation)
@@ -46,6 +47,9 @@ A curated list of essential research papers, including foundational studies and 
 
 Key foundational papers/state-of-the-art approaches, will be reimplemented with a focus on their applicability to the **Scientific MNIST** dataset, aiming to refine existing methods and explore new approaches.
 
+### **Comparative Analysis of Research Approaches**
+
+A systematic comparison of selected research papers will be undertaken to critically evaluate the methodological strengths, limitations, and performance variations of different approaches applied to the Scientific MNIST, CIFAR and other relevant datasets.
 
 ### **Foundational Code Development (PyTorch)**
 
