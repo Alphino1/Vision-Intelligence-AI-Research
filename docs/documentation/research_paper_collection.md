@@ -265,3 +265,29 @@ This repository tries to collect key publications, datasets, and models related 
   **Authors:** Laxmi R. Iyer, John Doe, Jane Smith  
   **Year:** 2018  
   **Venue:** Frontiers in Neuroscience
+
+
+
+
+
+---
+
+## Semi-Supervised Classification Methods 
+
+As part of my research efforts conducted last year, during which I tried to perform an exhaustive evaluation of leading semi-supervised classifiers.
+
+This section was developed based on a critical analysis of the semi-supervised learning landscape, carried out as part of my research efforts last year.
+
+
+
+The following instructions guided the inclusion of papers:
+
+-  Include only methods that perform **semi-supervised classification**, not general semi-supervised learning.
+-  Include both **discriminative** and **generative** state-of-the-art models.
+-  **Exclude** all papers published **before 2019**.
+-  **Do not include** survey/review papers or purely theoretical/learning frameworks that are not applied to classification.
+
+
+
+*Full list and affiliation/source available here:*  
+[Google Doc: Semi-Supervised Methods Evaluation](https://docs.google.com/document/d/1LLJNsvyLNviY09IgeMyenVPPt1E6vnxu/edit?usp=drivesdk)
