@@ -3,6 +3,11 @@
 This repository tries to collect key publications, datasets, and models related to the MNIST handwritten digit benchmark. Our each entry lists **Title**, **Authors**, **Year**, and **Venue**.  
 
 ---
+**Companion Documentation:**  
+A LaTeX based Overleaf archive provides a structured, curated view of this collection:  
+🔗 [https://www.overleaf.com/read/xcfvrztpvkhf](https://www.overleaf.com/read/xcfvrztpvkhf)
+
+---
 
 ## Core Datasets & Benchmarks
 
