@@ -26,6 +26,7 @@ This repository focuses on developing adaptive inference mechanisms and visual i
 6. [Citation](#citation)
 7. [Acknowledgments](#acknowledgments)
 8. [Long-Term Vision](#long-term-vision)
+9. [Notes](#notes)
 
 
 
@@ -134,13 +135,20 @@ If you use this repository in your research, projects, or academic work, please 
 - Thanks to the creators of the Scientific MNIST dataset
 - PyTorch community for the excellent deep learning framework
 
-## Ongoing Research Exploration
+## Long-Term Vision
 
 Building on last year’s foundational work, this repository remains a living archive of inquiry. Each new entities, deepens our evolving understanding of visual intelligence in scientific domains.
 
 This repository reflects an evolving body of work: shaped by deliberate effort, continuous learning, and a continuous attempt at thoughtful progress. While the current state represents a small subset of meaningful work, it remains part of a broader, ongoing journey: open to refinement, extension, and deeper understanding. As with any thoughtful pursuit, the process is dynamic, not definitive.
 
 It serves as a reflection of ongoing exploration rather than a finished destination: a work in progress informed by every question, insight, and perspective encountered along the way. Sustained by curiosity and the steady momentum of iteration, this journey is far from complete. And in that lies its greatest potential.
+
+
+## Notes
+
+
+This is a currently ongoing and evolving work. Due to the work's developmental nature, all specific details of the ongoing work have not yet been publicly disclosed. They will be appropriately shared in due course, as the work progresses with care.
+
 
 
 ---
